@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote fetch="https://github.com/crdroidandroid" name="org" />
+    <project name="android_device_nothing_Spacewar" path="device/nothing/Spacewar" remote="org" revision="16.0" />
+    <project name="proprietary_vendor_nothing_Spacewar" path="vendor/nothing/Spacewar" remote="org" revision="16.0" />
+    <project name="android_kernel_nothing_sm7325" path="kernel/nothing/Spacewar" remote="org" revision="16.0" />
+    <project name="vendor_nothing_camera-Spacewar" path="vendor/nothing/camera" remote="org" revision="16.0" />
+    <project name="android_hardware_nothing" path="hardware/nothing" remote="org" revision="16.0" />
+</manifest>
