@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote fetch="https://github.com/MySelly" name="org1" />
+    <remote fetch="https://github.com/LineageOS" name="org2" />
+    <project name="android_device_lge_g3" path="device/lge" remote="org1" revision="11.0" />
+    <project name="proprietary_vendor_lge_g3" path="vendor/lge" remote="org1" revision="11.0" />
+    <project name="android_kernel_lge_g3" path="kernel/lge/g3" remote="org1" revision="11.0" />
+    <project name="android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="org2" revision="lineage-18.1" />
+</manifest>
